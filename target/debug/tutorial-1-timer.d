@@ -1,0 +1,1 @@
+C:\Users\patri\OneDrive\ -\ UNIVERSITAS\ INDONESIA\Documents\Semester\ 4\Adpro\Tutorial\tutorial10\timer\target\debug\tutorial-1-timer.exe: C:\Users\patri\OneDrive\ -\ UNIVERSITAS\ INDONESIA\Documents\Semester\ 4\Adpro\Tutorial\tutorial10\timer\src\main.rs C:\Users\patri\OneDrive\ -\ UNIVERSITAS\ INDONESIA\Documents\Semester\ 4\Adpro\Tutorial\tutorial10\timer\src\timer.rs
